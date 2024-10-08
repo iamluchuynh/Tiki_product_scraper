@@ -1,0 +1,7 @@
+pandas
+requests
+pymongo
+beautifulsoup4
+lxml
+logging
+concurrent
