@@ -72,7 +72,7 @@ Here are some images that illustrate the data collection process and results:
 ## How to Use
 1. Clone the project from GitHub:
    ```bash
-   git clone https://github.com/yourusername/tiki-product-scraper.git
+   git clone https://github.com/iamluchuynh/Tiki-product-scraper.git
    cd tiki-product-scraper
    ```
 2. Install required libraries:
