@@ -83,7 +83,7 @@ Here are some images that illustrate the data collection process and results:
    ```bash
    python tiki_scraper.ipynb
    ```
-   - Ensure that the `'200k_tiki_products.csv'` file is in the same directory as `tiki_scraper.py`.
+   - Ensure that the `'200k_tiki_products.csv'` file is in the same directory as `tiki_scraper.ipynb`.
 
 ## Directory Structure
 ```
